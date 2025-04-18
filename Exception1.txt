@@ -17,7 +17,3 @@ public class Exception11 {
 	}
 
 }
-
-
-/ by zero
-finally block!

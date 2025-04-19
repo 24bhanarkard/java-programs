@@ -30,27 +30,3 @@ public class Generic {
 	}
 
 }
-
-
-
-
-
-array integer array contains
-1
-2
-3
-4
-5
-
- array double array contains
-23.5
-1.4
-7.9
-3.5
-
- array Character array contains
-h
-e
-l
-l
-o

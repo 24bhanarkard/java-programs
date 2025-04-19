@@ -23,8 +23,3 @@ public class Short {
 
 }
 
-
-
-enter a short:
-345678
-java.util.InputMismatchException: Value out of range. Value:"345678" Radix:10

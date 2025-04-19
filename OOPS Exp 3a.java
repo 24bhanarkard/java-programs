@@ -14,11 +14,3 @@ class Main{
         System.out.println("username is :" +username);
     }
 }
-
-
-output:
-enter username:
-rcoem
-username is :rcoem
-
-file name:Main

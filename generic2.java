@@ -26,11 +26,3 @@ public class Box<T> {
 	}
 
 }
-
-
-
-
-
-integer value is:10
-
-string values: hello world

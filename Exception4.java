@@ -16,7 +16,3 @@ public class Exception4 {
 	}
 
 }
-
-
-
-java.lang.ArrayIndexOutOfBoundsException: Index 6 out of bounds for length 4

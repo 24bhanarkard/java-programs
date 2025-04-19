@@ -56,14 +56,3 @@ class calculator{
 }
 
 
-
-output:
-
-addition is:30
-subtraction is:-10
-multiplication is:200
- division is:0
-  modulus is:10
-
-file name: calculator
-

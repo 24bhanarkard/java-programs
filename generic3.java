@@ -44,13 +44,3 @@ public class Generic3<T> {
 	}
 
 }
-
-
-
-enter an integer:23
-enter a float value:45.8
-enter any string:drgf
-
- integer value is:23
- float : 45.8
- string : drgf

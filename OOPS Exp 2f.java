@@ -35,12 +35,3 @@ class OverloadCons {
         System.out.println("Volume of mybox3 is" +vol);
     }
 }
-
-
-output
-
-Volume of mybox1 is3000.0
-Volume of mybox2 is-1.0
-Volume of mybox3 is343.0
-
-file name: OverloadCons

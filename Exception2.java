@@ -27,8 +27,3 @@ public class Exception3 {
 	}
 
 }
-
-
-
-java.lang.NullPointerException: Cannot invoke "String.length()" because "Str" is null
-Exception Handled

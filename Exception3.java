@@ -21,8 +21,3 @@ public class Exception2 {
 	}
 
 }
-
-
-
-java.lang.NumberFormatException: For input string: "null"
-Exception Handled!
